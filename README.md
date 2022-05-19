@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aliciapalominomosquera
+- 🩸 I’m interested in high-throughput sequencing for hematologic malignancies
+- 🧬 I’m currently learning about CNV callers
+- 📫 How to reach me *******@stanford.edu!
